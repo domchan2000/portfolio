@@ -23,7 +23,7 @@ export const Projects = () => {
             description: "Ransac-based photo fitting",
             imgUrl: pythonImg,
             repo: "https://github.com/domchan2000/Computer-Vision/tree/main/A3",
-            demo: "https://drive.google.com/file/d/15TWDYbWRugSp3spt4o-BTcSreIzenVYo/view?usp=sharing"
+            demo: "https://colab.research.google.com/drive/15TWDYbWRugSp3spt4o-BTcSreIzenVYo?authuser=1",
           },
           {
             title: "Covid19api_Lang_Adapter",
