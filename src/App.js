@@ -1,7 +1,7 @@
 import './App.css';
 import { Banner } from './components/Banner';
 import { MainNav } from './components/MainNav';
-import { Skills } from './components/Skills';
+// import { Skills } from './components/Skills';
 import { Projects } from './components/Projects';
 import 'bootstrap/dist/css/bootstrap.min.css';
 

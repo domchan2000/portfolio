@@ -4,6 +4,7 @@ import { ProjectsCard } from "./ProjectsCards";
 // import projImg2 from "../assets/images/project-img2.png";
 import pythonImg from "../assets/images/python-img.svg";
 import projImg4 from "../assets/images/project-img4.jpg";
+import htmlCSSImg from "../assets/images/CSS-HTML.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 // import { isVisible } from "@testing-library/user-event/dist/utils";
@@ -43,10 +44,24 @@ export const Projects = () => {
     const JavaScript_Projects = [
         {
             title: "Coffee meetups",
-            description: "Simple Meeting Scheduler",
+            description: "Simple React Meeting Scheduler",
             imgUrl: projImg4,
             repo:"https://github.com/domchan2000/meetup",
             demo:"https://domchan2000.github.io/meetup/#/",
+          },
+          {
+            title: "FCC_Technical_Doc",
+            description: "Certificated Projects from Responsive Web Design by FreeCodeCamp",
+            imgUrl: htmlCSSImg,
+            repo:"https://github.com/domchan2000/fcc-Build-a-Technical-Documentation-Page",
+            demo:"https://domchan2000.github.io/fcc-Build-a-Technical-Documentation-Page/",
+          },
+          {
+            title: "FCC_Product_Page",
+            description: "Certificated Projects from Responsive Web Design by FreeCodeCamp",
+            imgUrl: htmlCSSImg,
+            repo:"https://github.com/domchan2000/fcc-Build-a-Product-Landing-Page",
+            demo:"https://domchan2000.github.io/fcc-Build-a-Product-Landing-Page/",
           },
     ]
 
@@ -68,7 +83,7 @@ export const Projects = () => {
                             <Nav.Link eventKey="first">Python</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
-                            <Nav.Link eventKey="second">JavaScript</Nav.Link>
+                            <Nav.Link eventKey="second">JS/HTML/CSS</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
                             <Nav.Link eventKey="third">Java (Coming Soon)</Nav.Link>
