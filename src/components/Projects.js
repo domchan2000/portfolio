@@ -53,15 +53,15 @@ export const Projects = () => {
             title: "FCC_Technical_Doc",
             description: "Certificated Projects from Responsive Web Design by FreeCodeCamp",
             imgUrl: htmlCSSImg,
-            repo:"https://github.com/domchan2000/fcc-Build-a-Technical-Documentation-Page",
-            demo:"https://domchan2000.github.io/fcc-Build-a-Technical-Documentation-Page/",
+            repo:"https://github.com/domchan2000/FreeCodeCamp_Proj/tree/main/ResponsiveWebDesign/Technical%20Documentation%20Page",
+            demo:"https://domchan2000.github.io/FreeCodeCamp_Proj/ResponsiveWebDesign/Technical%20Documentation%20Page/technicalPage",
           },
           {
             title: "FCC_Product_Page",
             description: "Certificated Projects from Responsive Web Design by FreeCodeCamp",
             imgUrl: htmlCSSImg,
-            repo:"https://github.com/domchan2000/fcc-Build-a-Product-Landing-Page",
-            demo:"https://domchan2000.github.io/fcc-Build-a-Product-Landing-Page/",
+            repo:"https://github.com/domchan2000/FreeCodeCamp_Proj/tree/main/ResponsiveWebDesign/Product%20Landing%20Page",
+            demo:"https://domchan2000.github.io/FreeCodeCamp_Proj/ResponsiveWebDesign/Product%20Landing%20Page/productLandingPage",
           },
     ]
 
