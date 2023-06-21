@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.64ce6be4.css",
-    "main.js": "/portfolio/static/js/main.92cf4e07.js",
+    "main.js": "/portfolio/static/js/main.b53f2eff.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/project-img4.jpg": "/portfolio/static/media/project-img4.1b5c754e7aa7cf450915.jpg",
     "static/media/header-img2.png": "/portfolio/static/media/header-img2.eac5cf7ba5828aabcbbd.png",
@@ -9,18 +9,20 @@
     "static/media/CentraNo2-Bold.ttf": "/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/waldo.jpeg": "/portfolio/static/media/waldo.af8e5cac63dc94829842.jpeg",
     "static/media/CSS-HTML.png": "/portfolio/static/media/CSS-HTML.320874b5ea3c7eb56366.png",
     "static/media/python-img.svg": "/portfolio/static/media/python-img.4298525c028749eb4fa154f8f5bd1931.svg",
     "static/media/nav-icon5.svg": "/portfolio/static/media/nav-icon5.b3d1ac8ddea72fc061706edd06c4dabf.svg",
     "static/media/nav-icon4.svg": "/portfolio/static/media/nav-icon4.504ba8363283139c5ec8f598f3807528.svg",
+    "static/media/tensorflow-icon.svg": "/portfolio/static/media/tensorflow-icon.f5088e8e377a3d03f117bb28ce544789.svg",
     "index.html": "/portfolio/index.html",
     "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.64ce6be4.css.map": "/portfolio/static/css/main.64ce6be4.css.map",
-    "main.92cf4e07.js.map": "/portfolio/static/js/main.92cf4e07.js.map",
+    "main.b53f2eff.js.map": "/portfolio/static/js/main.b53f2eff.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64ce6be4.css",
-    "static/js/main.92cf4e07.js"
+    "static/js/main.b53f2eff.js"
   ]
 }
